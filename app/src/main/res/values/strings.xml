@@ -1,3 +1,43 @@
 <resources>
+
+    <string name="randomUserPic">Random User Pic</string>
+
     <string name="app_name">InfoAppExample</string>
+    <string name="fullName">Name:</string>
+    <string name="tittle">Tittle:</string>
+    <string name="gender">Gender:</string>
+    <string name="age">Age:</string>
+    <string name="nat">Nat:</string>
+    <string name="dob">Date of Birth:</string>
+
+    <string name="email">Email:</string>
+    <string name="phoneNumber">Phone:</string>
+    <string name="cellPhoneNumber">Cell:</string>
+
+    <string name="country">Country:</string>
+    <string name="state">State:</string>
+    <string name="city">City:</string>
+    <string name="street">Street:</string>
+    <string name="zipCode">ZipCode:</string>
+    <string name="coordinates">Coordinates:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude</string>
+    <string name="timeZone">TimeZone:</string>
+    <string name="offset">Offset:</string>
+    <string name="timeZoneDescription">Description:</string>
+
+    <string name="uuid">UUID:</string>
+    <string name="userName">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="salt">Salt:</string>
+    <string name="md5">MD5:</string>
+    <string name="sha1">SHA1:</string>
+    <string name="sha256">SHA256:</string>
+    
+    <string name="id">ID:</string>
+    <string name="value">Value:</string>
+    <string name="infoOfCreation">Info. of Creation:</string>
+    <string name="ageOfCreation">Age of Creation:</string>
+    <string name="dateOfCreation">Date of Creation:</string>
+
 </resources>
